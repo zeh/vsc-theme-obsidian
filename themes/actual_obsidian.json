@@ -20,14 +20,6 @@
 			}
 		},
 		{
-			"name": "Source base",
-			"scope": "source",
-			"settings": {
-				"background": "#293134",
-				"foreground": "#e0e2e4"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
